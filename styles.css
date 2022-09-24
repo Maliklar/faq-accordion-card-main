@@ -109,6 +109,7 @@ h1{
     justify-content: space-between;
     font-size: 1.2rem;
     color: var(--Verydarkdesaturatedblue);
+    cursor: pointer;
 }
 .fa-solid{
     font-size:1rem;
